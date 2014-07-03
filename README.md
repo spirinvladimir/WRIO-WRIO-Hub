@@ -1,4 +1,1 @@
-WRIO-WRIO-Hub
-=============
-
-WRIO Hub
+#WRIO <sup>[WRIO](http://wr.io) Hub</sup>
